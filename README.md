@@ -1,7 +1,6 @@
-![mockingbird](https://user-images.githubusercontent.com/12797292/131216767-6eb251d6-14fc-4951-8324-2722f0cd4c63.jpg)
-
-
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
+https://www.bilibili.com/video/BV1DL4y1q7VL
+![image](https://user-images.githubusercontent.com/26757810/188409296-2f8980e7-0b06-403e-85e6-cb9b8bb87f16.png)
+-i https://mirrors.aliyun.com/pypi/simple/
 
 > English | [中文](README-CN.md)
 
